@@ -1,5 +1,5 @@
 # c0b0tics.github.io
-Hey, you read the readme. I wouldn't even do that!
+Hey, you read the readme, I wouldn't even do that!
 Anyway, I would like to thank you for downloading my file.
 So this dropdown menu wasn't by me. The style was created from
 If you would like to see some more projects created by me go to www.cobotics.blogspot.com
